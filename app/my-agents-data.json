@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "header": "Athena",
+    "type": "Research",
+    "status": "Active",
+    "skills": "5",
+    "balance": "0.18 ETH",
+    "lastActive": "2 min ago"
+  },
+  {
+    "id": 2,
+    "header": "Hermes",
+    "type": "Communication",
+    "status": "Active",
+    "skills": "3",
+    "balance": "0.12 ETH",
+    "lastActive": "15 min ago"
+  },
+  {
+    "id": 3,
+    "header": "Apollo",
+    "type": "Creative",
+    "status": "Active",
+    "skills": "4",
+    "balance": "0.21 ETH",
+    "lastActive": "1 hour ago"
+  },
+  {
+    "id": 4,
+    "header": "Artemis",
+    "type": "Data Analysis",
+    "status": "Active",
+    "skills": "6",
+    "balance": "0.15 ETH",
+    "lastActive": "3 hours ago"
+  },
+  {
+    "id": 5,
+    "header": "Hephaestus",
+    "type": "Builder",
+    "status": "Training",
+    "skills": "2",
+    "balance": "0.08 ETH",
+    "lastActive": "1 day ago"
+  },
+  {
+    "id": 6,
+    "header": "Demeter",
+    "type": "Resource Mgmt",
+    "status": "Active",
+    "skills": "3",
+    "balance": "0.13 ETH",
+    "lastActive": "4 hours ago"
+  },
+  {
+    "id": 7,
+    "header": "Poseidon",
+    "type": "Network",
+    "status": "Training",
+    "skills": "0",
+    "balance": "0.00 ETH",
+    "lastActive": "N/A"
+  }
+]
+
