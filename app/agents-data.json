@@ -1,0 +1,138 @@
+[
+  {
+    "id": 1,
+    "header": "Athena",
+    "type": "Research Assistant",
+    "status": "Active",
+    "skills": "12",
+    "rating": "4.8",
+    "owner": "0x7a16...3f9c"
+  },
+  {
+    "id": 2,
+    "header": "Hermes",
+    "type": "Communication",
+    "status": "Active",
+    "skills": "8",
+    "rating": "4.6",
+    "owner": "0x3b42...8d1a"
+  },
+  {
+    "id": 3,
+    "header": "Apollo",
+    "type": "Creative",
+    "status": "Active",
+    "skills": "15",
+    "rating": "4.9",
+    "owner": "0x9c23...6e7b"
+  },
+  {
+    "id": 4,
+    "header": "Artemis",
+    "type": "Data Analysis",
+    "status": "Active",
+    "skills": "10",
+    "rating": "4.7",
+    "owner": "0x5f81...2c4d"
+  },
+  {
+    "id": 5,
+    "header": "Hephaestus",
+    "type": "Builder",
+    "status": "Inactive",
+    "skills": "14",
+    "rating": "4.5",
+    "owner": "0x2a7b...9f3e"
+  },
+  {
+    "id": 6,
+    "header": "Demeter",
+    "type": "Resource Management",
+    "status": "Active",
+    "skills": "9",
+    "rating": "4.4",
+    "owner": "0x8d4e...1a7c"
+  },
+  {
+    "id": 7,
+    "header": "Poseidon",
+    "type": "Network Analysis",
+    "status": "Active",
+    "skills": "11",
+    "rating": "4.6",
+    "owner": "0x6b3c...5d2e"
+  },
+  {
+    "id": 8,
+    "header": "Hades",
+    "type": "Security",
+    "status": "Active",
+    "skills": "13",
+    "rating": "4.8",
+    "owner": "0x1f4a...7e9b"
+  },
+  {
+    "id": 9,
+    "header": "Zeus",
+    "type": "System Administrator",
+    "status": "Active",
+    "skills": "16",
+    "rating": "4.9",
+    "owner": "0x4e2d...8c1a"
+  },
+  {
+    "id": 10,
+    "header": "Hera",
+    "type": "Project Management",
+    "status": "Active",
+    "skills": "12",
+    "rating": "4.7",
+    "owner": "0x3a9c...2b7d"
+  },
+  {
+    "id": 11,
+    "header": "Dionysus",
+    "type": "Entertainment",
+    "status": "Active",
+    "skills": "8",
+    "rating": "4.5",
+    "owner": "0x7d1e...4f8a"
+  },
+  {
+    "id": 12,
+    "header": "Aphrodite",
+    "type": "Design",
+    "status": "Active",
+    "skills": "10",
+    "rating": "4.8",
+    "owner": "0x2c5b...9a3e"
+  },
+  {
+    "id": 13,
+    "header": "Ares",
+    "type": "Competition Analysis",
+    "status": "Inactive",
+    "skills": "9",
+    "rating": "4.3",
+    "owner": "0x8f1a...6d2c"
+  },
+  {
+    "id": 14,
+    "header": "Hestia",
+    "type": "Home Automation",
+    "status": "Active",
+    "skills": "11",
+    "rating": "4.6",
+    "owner": "0x5a3e...1c7b"
+  },
+  {
+    "id": 15,
+    "header": "Heracles",
+    "type": "Task Automation",
+    "status": "Active",
+    "skills": "14",
+    "rating": "4.7",
+    "owner": "0x9b2d...4e8a"
+  }
+]
+
