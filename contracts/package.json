@@ -1,0 +1,15 @@
+{
+  "name": "mosaic-ai-erc6551",
+  "version": "0.1.0",
+  "description": "Mosaic AI implementation using ERC6551 token bound accounts",
+  "keywords": [
+    "erc6551",
+    "ai",
+    "nft",
+    "account",
+    "ethereum"
+  ],
+  "dependencies": {
+    "@openzeppelin/contracts": "5.2.0"
+  }
+} 
